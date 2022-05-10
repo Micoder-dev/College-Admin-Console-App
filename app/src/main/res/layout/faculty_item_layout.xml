@@ -33,14 +33,14 @@
                     android:id="@+id/teacherPost"
                     android:text="Principal"
                     android:textColor="@color/textColor"
-                    android:textSize="18sp"/>
+                    android:textSize="15sp"/>
                 <TextView
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:id="@+id/teacherEmail"
                     android:text="micoder.com@gmail.com"
                     android:textColor="@color/textColor"
-                    android:textSize="18sp"/>
+                    android:textSize="12sp"/>
                 <com.google.android.material.button.MaterialButton
                     android:id="@+id/teacherUpdate"
                     android:layout_width="wrap_content"
