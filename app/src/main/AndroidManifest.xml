@@ -13,6 +13,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.CollegeApp">
         <activity
+            android:name="com.micoder.collegeapp.faculty.UpdateTeacherActivity"
+            android:exported="false" />
+        <activity
             android:name="com.micoder.collegeapp.faculty.AddTeacher"
             android:exported="false" />
         <activity
