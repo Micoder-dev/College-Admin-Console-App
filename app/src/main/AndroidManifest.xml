@@ -13,7 +13,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.CollegeApp">
         <activity
-            android:name=".DeleteNoticeActivity"
+            android:name="com.micoder.collegeapp.notice.DeleteNoticeActivity"
             android:exported="false" />
         <activity
             android:name="com.micoder.collegeapp.faculty.UpdateTeacherActivity"
@@ -31,7 +31,7 @@
             android:name=".UploadImage"
             android:exported="false" />
         <activity
-            android:name=".UploadNotice"
+            android:name=".notice.UploadNotice"
             android:exported="false" />
         <activity
             android:name=".MainActivity"

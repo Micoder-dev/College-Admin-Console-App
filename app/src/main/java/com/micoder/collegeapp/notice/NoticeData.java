@@ -1,4 +1,4 @@
-package com.micoder.collegeapp;
+package com.micoder.collegeapp.notice;
 
 public class NoticeData {
     String title, image, date, time, key;

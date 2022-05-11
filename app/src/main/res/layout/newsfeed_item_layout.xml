@@ -25,6 +25,7 @@
                 android:textSize="18dp"
                 android:textColor="@color/textColor"/>
             <com.google.android.material.button.MaterialButton
+                android:id="@+id/deleteNotice"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="Delete"
@@ -33,12 +34,14 @@
         </LinearLayout>
 
         <TextView
+            android:id="@+id/deleteNoticeTitle"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="Support MI_Coders for more help on Android App Development"
             android:textSize="17sp"
             android:textColor="@color/textColor"/>
         <ImageView
+            android:id="@+id/deleteNoticeImage"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:scaleType="fitXY"/>

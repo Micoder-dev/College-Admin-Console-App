@@ -28,14 +28,10 @@ import com.google.firebase.database.FirebaseDatabase;
 import com.google.firebase.storage.FirebaseStorage;
 import com.google.firebase.storage.StorageReference;
 import com.google.firebase.storage.UploadTask;
-import com.micoder.collegeapp.NoticeData;
 import com.micoder.collegeapp.R;
-import com.micoder.collegeapp.UploadNotice;
 
 import java.io.ByteArrayOutputStream;
 import java.io.IOException;
-import java.text.SimpleDateFormat;
-import java.util.Calendar;
 
 public class AddTeacher extends AppCompatActivity {
 

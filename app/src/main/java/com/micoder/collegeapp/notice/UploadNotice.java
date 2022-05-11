@@ -1,4 +1,4 @@
-package com.micoder.collegeapp;
+package com.micoder.collegeapp.notice;
 
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
@@ -26,6 +26,7 @@ import com.google.firebase.database.FirebaseDatabase;
 import com.google.firebase.storage.FirebaseStorage;
 import com.google.firebase.storage.StorageReference;
 import com.google.firebase.storage.UploadTask;
+import com.micoder.collegeapp.R;
 
 import java.io.ByteArrayOutputStream;
 import java.io.IOException;
